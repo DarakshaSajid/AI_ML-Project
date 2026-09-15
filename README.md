@@ -44,9 +44,10 @@ student-study-predictor/
 ##  Setup & Installation
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/Ayushh-00
-cd student-study-predictor
+### 1. Clone the repository
+git clone https://github.com/DarakshaSajid/AI_ML-Project.git
+cd AI_ML-Project
+```
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -91,8 +92,7 @@ Python · pandas · numpy · scikit-learn · matplotlib · seaborn
 ---
 
 ##  Author
-
-**AYUSH KUMAR SINGH** — BTECH-CSE, 25BCE11163, VIT BHOPAL UNIVERSITY 
-GitHub: (https://github.com/Ayushh-00)
+**Daraksha Sajid**
+- GitHub: [DarakshaSajid](https://github.com/DarakshaSajid)
 
 *Submitted on VITyarthi | Machine Learning / AI Course — BYOP Capstone*
